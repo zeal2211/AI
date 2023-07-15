@@ -214,7 +214,7 @@ def minimax(board, depth, maximizing_player):
     else:
         min_eval = math.inf
         swapped_board = swap_color(board)
-        if board.count('W') > 3:
+        if swapped_board.count('W') > 3:
             boards = generate_move(swapped_board)
         else:
             boards = generate_hopping(swapped_board)
