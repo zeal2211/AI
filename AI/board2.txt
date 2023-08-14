@@ -1,3 +1,0 @@
-Board Position: WxWBxBxxxxxxxxWxBxWxx 
-Positions evaluated by static estimation: 415
-Alpha-Beta estimate: 955

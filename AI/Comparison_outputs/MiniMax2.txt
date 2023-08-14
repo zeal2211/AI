@@ -1,3 +1,0 @@
-Board Position: WWWxxxxxxxxxxxxxxBxxB 
-Positions evaluated by static estimation: 272
-MINIMAX estimate: 0

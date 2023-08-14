@@ -1,3 +1,0 @@
-Board Position: xWWBxBxxxxxxxxWxBxWxW 
-Positions evaluated by static estimation: 32376
-MINIMAX estimate: 2
